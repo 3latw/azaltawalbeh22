@@ -131,3 +131,16 @@ noscript{color:#ffb4b9;font-size:13px}
   color: #b8c5d4;
   font-size: 14px;
 }
+
+.university-email .email-app-link,
+.email-options {
+  font-size: 12px;
+  color: #b4c1d0;
+  margin-top: 8px;
+}
+
+.email-app-link,
+.email-options a {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
